@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random User</string>
+    <string name="update_user">update user</string>
+    <string name="birthday">Birthday:</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="password">Password:</string>
+    <string name="age">Age:</string>
+    <string name="error">An Error occurred</string>
+</resources>

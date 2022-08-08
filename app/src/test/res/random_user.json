@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Kiieslav",
+        "last": "Grin"
+      },
+      "location": {
+        "street": {
+          "number": 3608,
+          "name": "Generala Shuhevicha"
+        },
+        "city": "Skalat",
+        "state": "Mikolayivska",
+        "country": "Ukraine",
+        "postcode": 67041,
+        "coordinates": {
+          "latitude": "81.3390",
+          "longitude": "-122.4164"
+        },
+        "timezone": {
+          "offset": "-11:00",
+          "description": "Midway Island, Samoa"
+        }
+      },
+      "email": "kiieslav.grin@example.com",
+      "login": {
+        "uuid": "73053c8a-1192-45d4-b8db-b908fdcd4cea",
+        "username": "smallpanda758",
+        "password": "macmac",
+        "salt": "eeKiw2sE",
+        "md5": "beb5c3a0cb2e1a285b622015ebbe000b",
+        "sha1": "51b42078a53a8939cd48b8894dd310ce18225b85",
+        "sha256": "5c073044926c58b1bfcdcb6a481166f5f4f2658fd172c8e3bc966cbc65857519"
+      },
+      "dob": {
+        "date": "1977-07-28T21:20:03.597Z",
+        "age": 45
+      },
+      "registered": {
+        "date": "2002-03-22T22:35:00.222Z",
+        "age": 20
+      },
+      "phone": "(099) V88-3796",
+      "cell": "(097) W97-4484",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/55.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+      },
+      "nat": "UA"
+    }
+  ],
+  "info": {
+    "seed": "87cf23668f0fe935",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
